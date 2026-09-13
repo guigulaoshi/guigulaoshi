@@ -1,5 +1,3 @@
-# LaoShi
-
 <a href="https://www.youtube.com/@guigulaoshi"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://x.com/guigulaoshi"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.tiktok.com/@guigulaoshi"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
